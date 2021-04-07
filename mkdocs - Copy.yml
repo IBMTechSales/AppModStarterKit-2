@@ -1,0 +1,12 @@
+site_name: IBM Cloud Pak for Application Demo Days
+nav:
+ -  Home: index.md
+ -  Why IBM Cloud Pak for Applications: cp4apps.md
+ -  Application Modernization: AppMod.md
+ - Build and Run Cloud Native Applications: cloudNative.md
+ - How Cloud DevOps complements IBM Cloud Paks: devops.md
+ - "Additional Resources":
+     - The Value of WebSphere Liberty: liberty.md
+     - Get Started with the Migration Toolkit: wamt.md
+theme: readthedocs
+extra_css: ["extra.css"]

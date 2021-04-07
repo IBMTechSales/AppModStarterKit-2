@@ -1,0 +1,10 @@
+site_name: Application Modernization Starter Kit
+nav:
+ -  Home: index.md
+ -  Learn: AppMod-Learn.md
+ -  App Assessment and Recommedations: AppMod-Assess.md
+ - "Additional Resources":
+     - The Value of WebSphere Liberty: liberty.md
+     - Get Started with the WebSphere Application Server Migration Toolkit: wamt.md
+theme: readthedocs
+extra_css: ["extra.css"]
