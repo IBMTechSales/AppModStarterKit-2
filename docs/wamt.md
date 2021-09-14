@@ -2,8 +2,8 @@
 ![](images/wamt.png) <span style="color: blue;"><font size="+1.5"> WebSphere Application Server Migration Toolkit</font> </span>
 
 
-[Go to WebSphere Application Server Migration Toolkit](https://developer.ibm.com/wasdev/downloads/#asset/tools-WebSphere_Application_Server_Migration_Toolkit
-)
+[Go to WebSphere Application Server Migration Toolkit](https://www.ibm.com/support/pages/node/318849)
+
 
 The migration toolkit is ideal for speeding the migration of your applications from traditional WebSphere to WebSphere Liberty for modern containerized cloud deployments. 
 
