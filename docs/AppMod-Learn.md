@@ -27,7 +27,11 @@ See for yourself how IBM Transfromation Advisor is used to easily assess your ex
 
 <span style="color: green;">**7 minutes**</span>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eH9pVFNfqjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/unXUwbnwMVw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+--> 
   
 <br>  
 
@@ -52,8 +56,6 @@ help you get started.
 Transformation Advisor Local is available for local istallation so you can get started quickly to 
 assess your applications today. Transformation Advisor runs locally on docker containers on your developer desktop.  
 </p>
-
-**Transformation Advisor Local** is **FREE** for use! 
 
 
 ![](images/TA.png)
